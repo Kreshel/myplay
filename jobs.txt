@@ -1,0 +1,123 @@
+Company, Job Title, Status, Date Applied
+TACC, CIC Intern, Accepted, 12/24/19
+State Street, Cloud Engineer, Rejected, 1/1/19
+Oracle, Software Engineer, Re-Applied Deeper, 1/3/19
+Oracle, Data Scientist, Rejected, 1/3/19
+EA, Software Engineering Intern, Rejected, 1/3/19
+EA, Cloud - Software Engineer Intern, Applied, 1/3/19
+Shi, Software Developer, Applied, 1/3/19
+WigWag, SQA Intern, Applied, 1/4/19
+proofpoint, Software Engineering Summer Intern, Applied, 1/4/19
+Knewton, Engineering Intern, Applied, 1/4/19
+Spectrum, Software Engineering Intern, Applied, 1/4/19
+CBSSports, Engineering Intern, Applied, 1/4/19
+BAE, Junior Software Engineer, Applied, 1/4/19
+Siemens Healthineers, Student Intern, Rejected, 1/4/19
+Cloudreach, Software Developer, Applied, 1/4/19
+Computer Enterprises, Full Stack Architect, Applied, 1/4/19
+Amdocs, Software Engineer, Applied, 1/9/19
+IBM, Software Engineer, Applied, 1/9/19
+UNIFY, Digital Software Developer, Applied, 1/9/19
+Revature, Software Engineer, Applied, 1/9/19
+Microsoft, Software Engineer, Applied, 1/9/19
+Boeing, Software Engineer, Rejected, 1/9/19
+Collins Aerospace, Software Engineer, Rejected, 1/9/19
+Unity, Software Developer Intern, Rejected, 1/10/19
+Cloudera, Software Engineer Intern, Applied, 1/10/19
+AppDynamics, Associate Consultant, Applied, 1/10/19
+Pieces Technologies, Software Developer, Applied, 1/10/19
+Deloitte, Cloud Development & Integration Consultant, Applied, 1/10/19
+Dematic, Software Application Engineer, Applied, 1/14/19
+Ping, Software Quality Engineer, Rejected, 1/14/19
+Modernize, Software Engineer, Rejected, 1/14/19
+Technology Navigators, DevOps Engineer - Chef, Cloud, Java, Applied, 1/14/19
+Lockheed Martin, Software Engineer Associate, Rejected, 1/15/19
+Experian, Software Engineer - Rotational Program, Applied, 1/15/19
+Schlumberger, Cloud Software Engineer, Applied, 1/15/19
+Citadel and Citadel Securities, Software Engineering Rotation Program, Applied, 1/15/19
+Riot, Software Engineer - IT, Rejected, 1/15/19
+National Instruments, ELP Engineer, Interview, 1/15/19
+Workday, Software Engineer Intern - Quip, Applied, 1/16/19
+USAA, IT College Hire, Applied, 1/16/19
+Capital One, Technology Program Development Intern, Applied, 1/16/19
+Capital One, Technology Program Development Associate, Rejected, 1/16/19
+Capital One, CODA Associate, Phone Screening, 1/16/19
+NVIDIA, Cloud Security Engineer, Applied, 1/16/19
+REI, Software Engineer-Cloud, Applied, 1/16/19
+T-Mobile, 2019 Technology Internship (Computer Science), Applied, 1/16/19
+Protiviti, Dallas Consultant, Applied, 1/16/19
+Cisco, Software Engineer, Rejected, 1/16/19
+Cisco, Software Engineer (Co-op), Rejected, 1/16/19
+Cadence, Software Engineer - Circuit Simulation, Applied, 1/16/19
+AMD, Co-Op Engineer - Summer 2019, Applied, 1/16/19
+Revature, Entry Level Software Engineer, Applied, 1/17/19
+TradeStation, Software Engineer (Junior), Applied, 1/17/19
+O2 Technologies, Python/Haskell Developer, Applied, 1/17/19
+Gambit Technologies, Junior Software Engineer with Distributed Systems, Applied, 1/17/19
+Gambit Technologies, Cloud Software Engineer, Reliability and Automation, Applied, 1/17/19
+Gambit Technologies, Software Engineer, Austin TX, Applied, 1/17/19
+Gambit Technologies, Junior DevOps Engineer, Applied, 1/17/19
+Expedia, Cloud Platform Intern, Rejected, 1/17/19
+Colsa, Entry-Level Software Developer – TMAS-Scientist/Engineer 1, Rejected, 1/17/19
+Lockheed Martin, Aerospace Systems Engineer, Applied, 1/17/19
+ApTask, Entry Level Developer /Jr Developer, Applied, 1/17/19
+Labatt Food Service, Entry Level Full Stack Software Developer, Interview, 1/17/19
+Futurex, Entry-Level Software/Firmware Developer, Applied, 1/17/19
+Mortgage Specialists International, Entry Level Developer, Applied, 1/17/19
+Cox Enterprises, Software Engineer I, Applied, 1/17/19
+NTT Data, Entry Level Developer, Applied, 1/17/19
+Grace Instrument Company, Software Engineer / Developer, Applied, 1/17/19
+FIS, Software Engineer 1, Rejected, 1/17/19
+Reynolds and Reynolds, Entry Level Software Developer, Interview, 1/17/19
+Cisco, Software Engineer - Bachelor's (Full Time) – United States, Phone Screening, 1/17/19
+Avigilon, Software Engineer, Cloud Services, Applied, 1/17/19
+TekPartners, Software Engineer 1, Applied, 1/18/19
+Raythen, Software Engineer I, Applied, 1/18/19
+ManTech, CNO Developer Associate, Rejected, 1/18/19
+American General Life Insurance Company, Software Developer - Associate, Rejected, 1/18/19
+Robert Half, Software Developer, Applied, 1/19/19
+CyberCoders, Software Development Engineer - ALL LEVELS, WILL RELOCATE, Applied, 1/21/19
+Cottonwood Financial, Software Developer I, Applied, 1/21/19
+Golden Frog, Backend Software Engineer, Applied, 1/25/19
+Robinhood, Backend Engineer, Rejected, 1/25/19
+Intoollect, Data Science and Python Developer, Phone Screening(Ghosted), 1/31/19
+Thoughtworks, Software Developer, Rejected, 1/31/19
+Underarmour, Software Engineer, Applied, 2/1/19
+Amherst, Software Developer, Applied, 2/4/19
+Amherst, Software Engineer, Applied, 2/4/19
+CrowdStrike, Software Development Engineer in Test, Rejected, 2/4/19
+FDM Group, Junior Software Developer, Applied, 2/4/19
+Rev, DevOps Engineer, Applied, 2/4/19
+Thumbtack, Software Engineer, New Grad, Rejected, 2/5/19
+JM Family Enterprises, Software Developer, Rejected, 2/5/19
+Nextlink Internet, Python Software Developer, Applied, 2/5/19
+CBRE, Software Engineer – Global Workplace Solutions, Applied, 2/6/19
+Expo Inc., Software Engineer, Applied, 2/9/19
+Genuent, Software Developer, Applied, 2/9/19
+Deacom Inc., Junior Software Developer, Applied, 2/9/19
+Silver Peak, Software Engineer - Entry Level, Applied, 2/9/19
+Mozilla, Junior Software Engineer, Rejected, 2/9/19
+AVID Technical Resources, Entry Level Software Developer, Applied, 2/9/19
+InSource Inc., Entry Level Software Developer, Applied, 2/9/19
+TSYS, College Hires - Software Engineer I - Entry Level, Applied, 2/10/19
+SRC, Software Engineer (Entry Level), Applied, 2/10/19
+snowflake, Software Engineer - University Graduate (Entry Level), Applied, 2/10/19
+Mosanto Company, Software Developer (entry level), Applied, 2/10/19
+Oracle, Software Engineer - Oracle Management Cloud (S. Dhamdhere), Applied, 2/11/19
+Oracle, Software Engineer - Oracle Cloud Infrastructure (OCI 1), Applied, 2/11/19
+Oracle, Applications Engineer - Oracle Applications Lab (K. Agrawal 1), Applied, 2/11/19
+Zume Inc., Junior Software Engineer, Applied, 2/11/19
+Yext, Software Engineer, Rejected, 2/11/19
+Tata Consultancy Services, Junior Software Developer, Applied, 2/11/19
+Gemini, Software Engineer, Rejected, 2/11/19
+Brock, Software Developer, Phone Screening, 2/11/19
+Sam's Club, Software Engineer 2-Technology, Sam's Tech, Applied, 2/11/19
+Goldman Sachs, I&L Technology - Software Engineer - Dallas, Applied, 2/11/19
+Tektronix, Entry Level Software Engineer, Applied, 2/12/19
+Epic, Software Developer, Phone Screening/Technical Screening?, 2/13/19
+Fletcher Yoder, Technical Advisor, Applied, 2/14/19
+Opcity, Software Engineer, Applied, 2/15/19
+Novi Labs, Software Engineer (Python), Applied, 2/15/19
+TripAdvisor, Software Engineer, Applied, 2/16/19
+Squarespace, Software Engineer - Product Backend, Applied, 2/19/19
+Microsoft, Software Development Engineer at Bellevue, Applied, 2/19/19
